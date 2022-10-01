@@ -6,8 +6,10 @@ button:
   toggle_dark: Attiva/disattiva modalità scura
   toggle_langs: Cambia lingua
 intro:
-  desc: Modello per una Applicazione Vite
-  dynamic-route: Demo di rotta dinamica
-  hi: Ciao, {name}!
-  whats-your-name: Come ti chiami?
+  desc: Sono uno sviluppatore di software. Ho molta esperienza nello sviluppo
+        di interfacce utente web, applicazioni server e ho scritto alcune applicazioni desktop.
+  desc2: La maggior parte del mio lavoro è open source e disponibile pubblicamente su GitHub.
+  desc3: Al di fuori della programmazione e della ricerca di una compagna di vita,
+         mi piace Dota 2, adoro il plov e il sushi :)
+  moon: Mi dispiace tanto per la mia luna, ma è stata una misura forzata, non c'era altra via d'uscita.
 not-found: Non trovato

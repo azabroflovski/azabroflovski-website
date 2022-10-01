@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script lang="ts" setup>
 const { t, availableLocales, locale } = useI18n()
 
 const toggleLocales = () => {
@@ -22,12 +22,16 @@ const toggleLocales = () => {
       <div i-carbon-language />
     </a>
 
-    <RouterLink class="icon-btn mx-2" to="/about" :title="t('button.about')">
-      <div i-carbon-dicom-overlay />
-    </RouterLink>
-
-    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank" title="GitHub">
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://github.com/azabroflovski/azabroflovski-website" target="_blank" title="GitHub">
       <div i-carbon-logo-github />
+    </a>
+
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://t.me/azabroflovski" target="_blank" title="GitHub">
+      <div i-carbon-send-alt />
+    </a>
+
+    <a class="icon-btn mx-2" rel="noreferrer" href="https://instagram.com/azabroflovski" target="_blank" title="GitHub">
+      <div i-carbon-logo-instagram />
     </a>
   </nav>
 </template>

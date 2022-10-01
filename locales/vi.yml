@@ -6,8 +6,9 @@ button:
   toggle_dark: Chuyển đổi chế độ tối
   toggle_langs: Thay đổi ngôn ngữ
 intro:
-  desc: Ý kiến cá nhân Vite Template để bắt đầu
-  dynamic-route: Bản giới thiệu về dynamic route
-  hi: Hi, {name}!
-  whats-your-name: Tên bạn là gì?
+  desc: Tôi là một nhà phát triển phần mềm. Tôi có nhiều kinh nghiệm trong việc phát
+        triển giao diện người dùng web, ứng dụng máy chủ, cũng như đã viết một số ứng dụng máy tính để bàn.
+  desc2: Hầu hết công việc của tôi là mã nguồn mở và công khai trên GitHub.
+  desc3: Ngoài thời gian lập trình và cố gắng tìm một người bạn đời, tôi thích Dota 2, yêu plov và sushi :)
+  moon: Tôi rất tiếc lời trăng trối của tôi, nhưng đó là biện pháp cưỡng bức, không còn lối thoát nào khác.
 not-found: Không tìm thấy

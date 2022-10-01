@@ -6,9 +6,9 @@ button:
   toggle_dark: Ubah ke mode gelap
   toggle_langs: Ubah bahasa
 intro:
-  desc: Template awal vite
-  dynamic-route: Contoh rute dinamik
-  hi: Halo, {name}!
-  aka: Juga diketahui sebagai
-  whats-your-name: Siapa nama anda?
+  desc: Saya seorang pengembang perangkat lunak. Saya memiliki banyak pengalaman dalam
+        mengembangkan antarmuka pengguna web, aplikasi server, serta menulis beberapa aplikasi desktop.
+  desc2: Sebagian besar pekerjaan saya adalah sumber terbuka dan tersedia untuk umum di GitHub.
+  desc3: Di luar pemrograman dan mencoba menemukan pasangan hidup, saya menikmati Dota 2, suka plov dan sushi :)
+  moon: Saya sangat menyesal bulan saya, tetapi itu adalah tindakan yang dipaksakan, tidak ada jalan keluar lain.
 not-found: Tidak ditemukan

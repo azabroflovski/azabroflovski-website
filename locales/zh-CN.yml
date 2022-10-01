@@ -6,9 +6,8 @@ button:
   toggle_dark: 切换深色模式
   toggle_langs: 切换语言
 intro:
-  desc: 固执己见的 Vite 项目模板
-  dynamic-route: 动态路由演示
-  hi: 你好，{name}
-  aka: 也叫
-  whats-your-name: 输入你的名字
+  desc: 我是一名软件开发人员。我在开发网络用户界面、服务器应用程序方面有很多经验，也写过一些桌面应用程序。
+  desc2: 我的大部分工作都是开源的，并在GitHub上公开提供。
+  desc3: 在编程和努力寻找生活伴侣之外，我喜欢Dota 2，喜欢plov和寿司 :)
+  moon: 我很抱歉，我的月亮，但这是一个被迫的措施，没有其他出路。
 not-found: 未找到页面

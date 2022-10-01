@@ -6,9 +6,9 @@ button:
   toggle_dark: Toggle dark mode
   toggle_langs: Change languages
 intro:
-  desc: Opinionated Vite Starter Template
-  dynamic-route: Demo of dynamic route
-  hi: Hi, {name}!
-  aka: Also known as
-  whats-your-name: What's your name?
+  desc: I am a software developer. I have a lot of experience in developing web user interfaces,
+        server applications, as well as wrote some desktop applications.
+  desc2: Most of my work is open source and publicly available on GitHub.
+  desc3: Outside of programming and trying to find a life partner, I enjoy Dota 2, love plov and sushi :)
+  moon: I am so sorry my moon, but it was a forced measure, there was no other way out.
 not-found: Not found

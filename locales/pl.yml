@@ -6,9 +6,9 @@ button:
   toggle_dark: Ustaw tryb nocny
   toggle_langs: Zmień język
 intro:
-  desc: Opiniowany szablon startowy Vite
-  dynamic-route: Demonstracja dynamicznego route
-  hi: Cześć, {name}!
-  aka: Znany też jako
-  whats-your-name: Jak masz na imię?
+  desc: Jestem programistą. Mam duże doświadczenie w tworzeniu webowych interfejsów użytkownika,
+        aplikacji serwerowych, jak również napisałem kilka aplikacji desktopowych.
+  desc2: Większość mojej pracy to open source i jest publicznie dostępna na GitHubie.
+  desc3: Poza programowaniem i próbą znalezienia partnera życiowego, lubię Dotę 2, kocham plov i sushi :)
+  moon: Bardzo przepraszam mój księżyc, ale to było wymuszone działanie, nie było innego wyjścia.
 not-found: Nie znaleziono

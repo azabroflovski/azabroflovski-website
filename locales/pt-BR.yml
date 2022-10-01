@@ -6,9 +6,9 @@ button:
   toggle_dark: Alternar modo escuro
   toggle_langs: Mudar de idioma
 intro:
-  desc: Modelo Opinativo de Partida de Vite
-  dynamic-route: Demonstração de rota dinâmica
-  hi: Olá, {name}!
-  aka: Também conhecido como
-  whats-your-name: Qual é o seu nome?
+  desc: Sou um programador de software. Tenho muita experiência no desenvolvimento de interfaces
+        de utilizador web, aplicações de servidor, bem como escrevi algumas aplicações desktop.
+  desc2: A maior parte do meu trabalho é open source e está disponível publicamente no GitHub.
+  desc3: Fora da programação e tentando encontrar um parceiro de vida, gosto de Dota 2, adoro plov e sushi :)
+  moon: Lamento imenso a minha lua, mas foi uma medida forçada, não havia outra saída.
 not-found: Não encontrado

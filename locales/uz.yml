@@ -1,0 +1,14 @@
+button:
+  about: Shablon haqida
+  back: Ortga
+  go: O'tish
+  home: Bosh sahifa
+  toggle_dark: Qorong'i rejimni yoqish
+  toggle_langs: Tilni almashtirish
+intro:
+  desc: Men dasturiy ta'minot ishlab chiqaruvchisiman. Men veb-foydalanuvchi interfeyslarini,
+        server ilovalarini ishlab chiqishda katta tajribaga egaman, shuningdek, ba'zi ish stoli ilovalarini yozganman.
+  desc2: Mening ishlarimning aksariyati ochiq manba va GitHub-da hammaga ochiq.
+  desc3: Dasturlash va hayot sherigini topishga harakat qilishdan tashqari, men Dota 2 ni yaxshi ko'raman, palov va sushini yaxshi ko'raman :)
+  moon: Oyim juda afsusdaman, lekin bu majburiy chora edi, boshqa yo'l yo'q edi.
+not-found: Topilmadi

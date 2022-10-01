@@ -6,9 +6,10 @@ button:
   toggle_dark: Karanlık modu değiştir
   toggle_langs: Dilleri değiştir
 intro:
-  desc: Görüşlü Vite Başlangıç Şablonu
-  dynamic-route: Dinamik rota demosu
-  hi: Merhaba, {name}!
-  aka: Ayrıca şöyle bilinir
-  whats-your-name: Adınız nedir?
+  desc: Ben bir yazılım geliştiricisiyim. Web kullanıcı arayüzleri, sunucu uygulamaları
+        geliştirme konusunda çok deneyimim var ve bazı masaüstü uygulamaları yazdım.
+  desc2: Çalışmalarımın çoğu açık kaynak kodlu ve GitHub'da herkese açık.
+  desc3: Programlama ve hayat arkadaşı bulmaya çalışmanın dışında Dota 2'den hoşlanıyorum,
+         plov ve sushi seviyorum :)
+  moon: Ay çok üzgünüm ama zorunlu bir önlemdi, başka çıkış yolu yoktu.
 not-found: Bulunamadı

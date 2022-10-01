@@ -1,62 +1,21 @@
-<script setup lang="ts">
-const user = useUserStore()
-const name = $ref(user.savedName)
-
-const router = useRouter()
-const go = () => {
-  if (name)
-    router.push(`/hi/${encodeURIComponent(name)}`)
-}
-
+<script lang="ts" setup>
 const { t } = useI18n()
 </script>
 
 <template>
-  <div>
-    <div text-4xl>
-      <div i-carbon-campsite inline-block />
-    </div>
-    <p>
-      <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
-        Vitesse
-      </a>
-    </p>
-    <p>
-      <em text-sm opacity-75>{{ t('intro.desc') }}</em>
-    </p>
-
-    <div py-4 />
-
-    <input
-      id="input"
-      v-model="name"
-      :placeholder="t('intro.whats-your-name')"
-      :aria-label="t('intro.whats-your-name')"
-      type="text"
-      autocomplete="false"
-      p="x4 y2"
-      w="250px"
-      text="center"
-      bg="transparent"
-      border="~ rounded gray-200 dark:gray-700"
-      outline="none active:none"
-      @keydown.enter="go"
-    >
-    <label class="hidden" for="input">{{ t('intro.whats-your-name') }}</label>
-
-    <div>
-      <button
-        btn m-3 text-sm
-        :disabled="!name"
-        @click="go"
-      >
-        {{ t('button.go') }}
-      </button>
-    </div>
+  <div class="prose prose-sm m-auto text-left">
+    <h1>azabroflovski</h1>
+    <p>{{ t('intro.desc') }}</p>
+    <p>{{ t('intro.desc2') }}</p>
+    <p>{{ t('intro.desc3') }}</p>
+    <span class="text-sm text-gray">
+      {{ t('intro.moon') }}
+    </span>
   </div>
 </template>
 
-<route lang="yaml">
-meta:
-  layout: home
-</route>
+<style>
+.prose {
+  max-width: 55ch !important;
+}
+</style>
