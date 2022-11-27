@@ -8,9 +8,16 @@ const { t } = useI18n()
     <p>{{ t('intro.desc') }}</p>
     <p>{{ t('intro.desc2') }}</p>
     <p>{{ t('intro.desc3') }}</p>
-    <span class="text-sm text-gray">
-      {{ t('intro.moon') }}
-    </span>
+
+    <h4>Blog posts</h4>
+
+    <ul>
+      <li>
+        <RouterLink to="/commit-style">
+          Git commit style guide
+        </RouterLink>
+      </li>
+    </ul>
   </div>
 </template>
 
